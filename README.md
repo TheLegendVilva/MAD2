@@ -1,2 +1,2 @@
 # MAD2
-Includes Screen Casts and Project work
+Includes Screen Casts.
